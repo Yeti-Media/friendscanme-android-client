@@ -1,0 +1,14 @@
+<resources>
+
+    <string name="app_name">Friendscan.Me</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_scan_me">ScanMe</string>
+    <string name="app_desc">Translate your social networks into a digital business card.</string>
+    <string name="profile_pic_desc">Your profile picture.</string>
+    <string name="qr_desc">Your QR code.</string>
+    <string name="login_desc">Login with your Facebook account.</string>
+    <string name="fsm_logo_desc">Friendscan.me logo.</string>
+    
+</resources>
