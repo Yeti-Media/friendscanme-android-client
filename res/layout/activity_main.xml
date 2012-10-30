@@ -22,6 +22,7 @@
         android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true"
         android:layout_marginBottom="73dp"
+  		android:background="@null"
         android:onClick="fbLogin"
         android:src="@drawable/fb_button" />
 

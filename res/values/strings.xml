@@ -10,5 +10,6 @@
     <string name="qr_desc">Your QR code.</string>
     <string name="login_desc">Login with your Facebook account.</string>
     <string name="fsm_logo_desc">Friendscan.me logo.</string>
-    
+    <string name="title_activity_splash">SplashActivity</string>
+
 </resources>
